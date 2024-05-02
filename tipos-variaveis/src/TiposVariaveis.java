@@ -12,9 +12,9 @@ public class TiposVariaveis {
 
         System.out.println(numero);
 
-        double VALOR_DE_PI = 3.14; //adicionando final o valor nao pode ser alterado
+        double VALOR_DE_PI = 3.14; //adicionao final o vlor nao é alterado.
 
-        VALO_DE_PI = 10.7
+        VALOR_DE_PI = 10;
 
     }
 }
